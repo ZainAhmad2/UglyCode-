@@ -1,0 +1,22 @@
+#include <iostream>
+#include <cmath>
+#include <unordered_map>
+int main() {
+    std::unordered_map<             int,                      std::string> 🤪;
+   int 🌕 = 10;      std::string 🌍 =      "I changed the world";
+    for (int 🌈 = 0; 🌈 <= 2 * 🌕; 🌈++) {   for
+        (int 🌟 = 0; 🌟
+        <= 2 * 🌕;                                     🌟++) {
+int 🌌 = static_cast<int>(std::sqrt(std::pow(🌟 - 🌕, 
+2) + 
+       std::pow(🌈 - 🌕, 2)));
+       std::unordered_map<int, std::string> 🤣;
+ if (🌌 <= 🌕) { if (🌈 == 🌕 && 🌟 >= 🌕 - 🌍.length() / 2 && 🌟 < 🌕 -
+ 🌍.length() / 2 + 
+ 🌍.length()) {
+    int 📜 = 🌟 - 
+    (🌕 - 🌍.length() / 2); std::cout << 🌍[📜];  } else {std::cout << '0';
+}  } else {    std::cout << ' ';
+            }    }   std::cout << std::endl;
+    }  return 0;
+}
